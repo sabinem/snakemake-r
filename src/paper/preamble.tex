@@ -1,0 +1,20 @@
+\usepackage{booktabs}
+\usepackage{siunitx}
+% \usepackage{subfig}
+\usepackage{subcaption}
+\usepackage{setspace} % adjust line space on the fly
+\usepackage{threeparttable}
+\usepackage{dcolumn}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+
+\newcolumntype{d}{S[input-symbols = ()]}
+
+% figure note environment
+\newenvironment{fignote}{\begin{quote}\footnotesize}{\end{quote}}
+\makeatother

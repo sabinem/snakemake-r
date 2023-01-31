@@ -1,0 +1,6 @@
+bookdown::pdf_book:
+  base_format: rticles::asa_article
+  includes:
+      in_header: preamble.tex
+  latex_engine: xelatex
+  keep_tex: yes

@@ -1,0 +1,6 @@
+book_filename: "article"
+output_dir: "../../out/paper"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true

@@ -1,0 +1,139 @@
+## Results
+
+### Table 1 
+
+\begin{table}[h!]
+    \begin{singlespace}
+    \caption{your caption}
+    \begin{center}
+    \begin{threeparttable}
+    \begin{footnotesize}
+    \input{../../out/tables/table_01.tex}
+    \end{footnotesize}
+    \begin{tablenotes}
+        \begin{footnotesize}
+    \item \textit{Notes:} some notes
+        \end{footnotesize}
+    \end{tablenotes}
+    \end{threeparttable}
+    \end{center}
+    \label{table:tbl_ref1}
+        \end{singlespace}
+    \end{table}
+
+\newpage 
+
+### Table 2
+
+\begin{table}[h!]
+    \begin{singlespace}
+    \caption{your caption}
+    \begin{center}
+    \begin{threeparttable}
+    \begin{footnotesize}
+    \input{../../out/tables/table_02.tex}
+    \end{footnotesize}
+    \begin{tablenotes}
+        \begin{footnotesize}
+    \item \textit{Notes:} some notes
+        \end{footnotesize}
+    \end{tablenotes}
+    \end{threeparttable}
+    \end{center}
+    \label{table:tbl_ref2}
+        \end{singlespace}
+    \end{table}
+
+\newpage 
+
+### Table 3
+
+\begin{table}[h!]
+    \begin{singlespace}
+    \caption{your caption}
+    \begin{center}
+    \begin{threeparttable}
+    \begin{footnotesize}
+    \input{../../out/tables/table_03.tex}
+    \end{footnotesize}
+    \begin{tablenotes}
+        \begin{footnotesize}
+    \item \textit{Notes:} some notes
+        \end{footnotesize}
+    \end{tablenotes}
+    \end{threeparttable}
+    \end{center}
+    \label{table:tbl_ref3}
+        \end{singlespace}
+    \end{table}
+
+\newpage 
+
+### Table 4
+
+\begin{table}[h!]
+    \begin{singlespace}
+    \caption{your caption}
+    \begin{center}
+    \begin{threeparttable}
+    \begin{footnotesize}
+    \input{../../out/tables/table_04.tex}
+    \end{footnotesize}
+    \begin{tablenotes}
+        \begin{footnotesize}
+    \item \textit{Notes:} some notes
+        \end{footnotesize}
+    \end{tablenotes}
+    \end{threeparttable}
+    \end{center}
+    \label{table:tbl_ref4}
+        \end{singlespace}
+    \end{table}
+
+\newpage 
+
+### Table 5
+
+\begin{table}[h!]
+    \begin{singlespace}
+    \caption{your caption}
+    \begin{center}
+    \begin{threeparttable}
+    \begin{footnotesize}
+    \input{../../out/tables/table_05.tex}
+    \end{footnotesize}
+    \begin{tablenotes}
+        \begin{footnotesize}
+    \item \textit{Notes:} some notes
+        \end{footnotesize}
+    \end{tablenotes}
+    \end{threeparttable}
+    \end{center}
+    \label{table:tbl_ref5}
+        \end{singlespace}
+    \end{table}
+
+\newpage 
+
+### Table 6
+
+\begin{table}[h!]
+    \begin{singlespace}
+    \caption{your caption}
+    \begin{center}
+    \begin{threeparttable}
+    \begin{footnotesize}
+    \input{../../out/tables/table_06.tex}
+    \end{footnotesize}
+    \begin{tablenotes}
+        \begin{footnotesize}
+    \item \textit{Notes:} some notes
+        \end{footnotesize}
+    \end{tablenotes}
+    \end{threeparttable}
+    \end{center}
+    \label{table:tbl_ref6}
+        \end{singlespace}
+    \end{table}
+
+\newpage 
